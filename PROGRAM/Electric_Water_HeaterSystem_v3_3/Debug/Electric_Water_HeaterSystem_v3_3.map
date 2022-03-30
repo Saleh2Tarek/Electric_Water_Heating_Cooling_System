@@ -1,0 +1,1037 @@
+Archive member included because of file (symbol)
+
+d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                              ./HAL/TEMPERATURE_SENSOR/TEMP_SENSOR_program.o (__mulsi3)
+d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+                              ./HAL/SEVENSEGMENT/SEVENSEGMENT_program.o (__udivmodqi4)
+d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                              ./APP/SYSTEM/SYSTEM_program.o (__udivmodhi4)
+d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                              ./APP/TMU/TMU_program.o (__divmodhi4)
+d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                              ./HAL/TEMPERATURE_SENSOR/TEMP_SENSOR_program.o (__udivmodsi4)
+d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                              ./HAL/LCD/LCD_program.o (__divmodsi4)
+d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              ./MCAL/EXTI/EXTI_config.o (__do_copy_data)
+d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              ./MCAL/TIMER/TIMER_program.o (__do_clear_bss)
+d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+                              ./MCAL/TIMER/TIMER_program.o (__eqsf2)
+d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                              ./MCAL/TIMER/TIMER_program.o (__floatunsisf)
+d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o) (__prologue_saves__)
+d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o) (__epilogue_restores__)
+d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                              d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o) (__clzsi2)
+d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                              d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o) (__pack_f)
+d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                              d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o) (__unpack_f)
+d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o) (__fpcmp_parts_f)
+d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                              d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o) (__clz_tab)
+
+Allocating common symbols
+Common symbol       size              file
+
+Global_u16_tOne_SecondToggleFlag
+                    0x2               ./APP/SYSTEM/SYSTEM_program.o
+Global_u16_tDesiredTemp
+                    0x2               ./APP/SYSTEM/SYSTEM_program.o
+Global_Au16_tTempArr
+                    0x14              ./APP/SYSTEM/SYSTEM_program.o
+Global_u8_tUPSwitchFlag
+                    0x1               ./APP/SYSTEM/SYSTEM_program.o
+Global_u8_tDOWNSwitchFlag
+                    0x1               ./APP/SYSTEM/SYSTEM_program.o
+TASKS               0x1c              ./APP/TMU/TMU_program.o
+Global_u16_tTempRead
+                    0x2               ./APP/SYSTEM/SYSTEM_program.o
+Global_u8_tArrCounter
+                    0x1               ./APP/SYSTEM/SYSTEM_program.o
+Global_u16_tFive_SecondToggleFlag
+                    0x2               ./APP/SYSTEM/SYSTEM_program.o
+Global_u16_tAverageTemp
+                    0x2               ./APP/SYSTEM/SYSTEM_program.o
+Global_u8_tCurrentState
+                    0x1               ./APP/SYSTEM/SYSTEM_program.o
+Global_u8_tReadData
+                    0x1               ./APP/SYSTEM/SYSTEM_program.o
+Global_u8_tTempMeasureFlag
+                    0x1               ./APP/SYSTEM/SYSTEM_program.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD ./MCAL/TIMER/TIMER_program.o
+LOAD ./MCAL/INTERNAL_EEPROM/EEPROM_program.o
+LOAD ./MCAL/GIE/GIE_program.o
+LOAD ./MCAL/EXTI/EXTI_config.o
+LOAD ./MCAL/EXTI/EXTI_program.o
+LOAD ./MCAL/DIO/DIO_program.o
+LOAD ./MCAL/ADC/ADC_program.o
+LOAD ./HAL/TEMPERATURE_SENSOR/TEMP_SENSOR_program.o
+LOAD ./HAL/SWITCH/SWITCH_config.o
+LOAD ./HAL/SWITCH/SWITCH_program.o
+LOAD ./HAL/SEVENSEGMENT/SEVENSEGMENT_config.o
+LOAD ./HAL/SEVENSEGMENT/SEVENSEGMENT_program.o
+LOAD ./HAL/LED_SYSTEM/LED_SYSTEM_program.o
+LOAD ./HAL/LCD/LCD_program.o
+LOAD ./HAL/HEAT_COOL/HEAT_COOL_Elements_program.o
+LOAD ./APP/TMU/TMU_program.o
+LOAD ./APP/SYSTEM/SYSTEM_program.o
+LOAD ./APP/main.o
+LOAD d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2780
+ *(.vectors)
+ .vectors       0x00000000       0x54 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ .init4         0x00000076       0x10 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000086        0x8 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000008e        0x4 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x0000008e                __vector_12
+                0x0000008e                __bad_interrupt
+                0x0000008e                __vector_6
+                0x0000008e                __vector_13
+                0x0000008e                __vector_17
+                0x0000008e                __vector_19
+                0x0000008e                __vector_15
+                0x0000008e                __vector_14
+                0x0000008e                __vector_18
+                0x0000008e                __vector_20
+ .text          0x00000092        0x0 ./MCAL/TIMER/TIMER_program.o
+ .text          0x00000092        0x0 ./MCAL/INTERNAL_EEPROM/EEPROM_program.o
+ .text          0x00000092        0x0 ./MCAL/GIE/GIE_program.o
+ .text          0x00000092        0x0 ./MCAL/EXTI/EXTI_config.o
+ .text          0x00000092        0x0 ./MCAL/EXTI/EXTI_program.o
+ .text          0x00000092        0x0 ./MCAL/DIO/DIO_program.o
+ .text          0x00000092        0x0 ./MCAL/ADC/ADC_program.o
+ .text          0x00000092        0x0 ./HAL/TEMPERATURE_SENSOR/TEMP_SENSOR_program.o
+ .text          0x00000092        0x0 ./HAL/SWITCH/SWITCH_config.o
+ .text          0x00000092        0x0 ./HAL/SWITCH/SWITCH_program.o
+ .text          0x00000092        0x0 ./HAL/SEVENSEGMENT/SEVENSEGMENT_config.o
+ .text          0x00000092        0x0 ./HAL/SEVENSEGMENT/SEVENSEGMENT_program.o
+ .text          0x00000092        0x0 ./HAL/LED_SYSTEM/LED_SYSTEM_program.o
+ .text          0x00000092        0x0 ./HAL/LCD/LCD_program.o
+ .text          0x00000092        0x0 ./HAL/HEAT_COOL/HEAT_COOL_Elements_program.o
+ .text          0x00000092        0x0 ./APP/TMU/TMU_program.o
+ .text          0x00000092        0x0 ./APP/SYSTEM/SYSTEM_program.o
+ .text          0x00000092        0x0 ./APP/main.o
+ .text          0x00000092        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000092        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+ .text          0x00000092        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000092        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000092        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000092        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000092        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000092        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000092        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000092       0x60 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+                0x00000092                __eqsf2
+ .text          0x000000f2       0xf2 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                0x000000f2                __floatunsisf
+ .text          0x000001e4        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x000001e4        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .text          0x000001e4       0x9e d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                0x000001e4                __clzsi2
+ .text          0x00000282      0x1aa d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                0x00000282                __pack_f
+ .text          0x0000042c       0xf0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                0x0000042c                __unpack_f
+ .text          0x0000051c       0xb2 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x0000051c                __fpcmp_parts_f
+ .text          0x000005ce        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                0x000005ce                . = ALIGN (0x2)
+ *(.text.*)
+ .text.TIMER0_enuInit
+                0x000005ce       0x20 ./MCAL/TIMER/TIMER_program.o
+                0x000005ce                TIMER0_enuInit
+ .text.TIMER0_enuInterruptDisable
+                0x000005ee        0xa ./MCAL/TIMER/TIMER_program.o
+                0x000005ee                TIMER0_enuInterruptDisable
+ .text.TIMER0_enuStartTimer
+                0x000005f8       0x16 ./MCAL/TIMER/TIMER_program.o
+                0x000005f8                TIMER0_enuStartTimer
+ .text.TIMER0_enuStopTimer
+                0x0000060e       0x16 ./MCAL/TIMER/TIMER_program.o
+                0x0000060e                TIMER0_enuStopTimer
+ .text.TIMER0_enuSetCallBackDelay
+                0x00000624       0x1c ./MCAL/TIMER/TIMER_program.o
+                0x00000624                TIMER0_enuSetCallBackDelay
+ .text.__vector_11
+                0x00000640       0x92 ./MCAL/TIMER/TIMER_program.o
+                0x00000640                __vector_11
+ .text.__vector_10
+                0x000006d2       0xb2 ./MCAL/TIMER/TIMER_program.o
+                0x000006d2                __vector_10
+ .text.TIMER2_enuInit
+                0x00000784       0x26 ./MCAL/TIMER/TIMER_program.o
+                0x00000784                TIMER2_enuInit
+ .text.TIMER2_enuInterruptDisable
+                0x000007aa        0xa ./MCAL/TIMER/TIMER_program.o
+                0x000007aa                TIMER2_enuInterruptDisable
+ .text.TIMER2_enuStartTimer
+                0x000007b4       0x16 ./MCAL/TIMER/TIMER_program.o
+                0x000007b4                TIMER2_enuStartTimer
+ .text.TIMER2_enuStopTimer
+                0x000007ca       0x16 ./MCAL/TIMER/TIMER_program.o
+                0x000007ca                TIMER2_enuStopTimer
+ .text.TIMER2_enuSetCallBackDelay
+                0x000007e0       0x1c ./MCAL/TIMER/TIMER_program.o
+                0x000007e0                TIMER2_enuSetCallBackDelay
+ .text.__vector_5
+                0x000007fc       0x92 ./MCAL/TIMER/TIMER_program.o
+                0x000007fc                __vector_5
+ .text.TIMER1_enuInit
+                0x0000088e       0x40 ./MCAL/TIMER/TIMER_program.o
+                0x0000088e                TIMER1_enuInit
+ .text.TIMER1_enuInterruptDisable
+                0x000008ce       0x10 ./MCAL/TIMER/TIMER_program.o
+                0x000008ce                TIMER1_enuInterruptDisable
+ .text.TIMER1_enuStartTimer
+                0x000008de       0x16 ./MCAL/TIMER/TIMER_program.o
+                0x000008de                TIMER1_enuStartTimer
+ .text.TIMER1_enuStopTimer
+                0x000008f4       0x16 ./MCAL/TIMER/TIMER_program.o
+                0x000008f4                TIMER1_enuStopTimer
+ .text.TIMER1_enuSetCallBackDelay
+                0x0000090a       0x1c ./MCAL/TIMER/TIMER_program.o
+                0x0000090a                TIMER1_enuSetCallBackDelay
+ .text.__vector_9
+                0x00000926       0xac ./MCAL/TIMER/TIMER_program.o
+                0x00000926                __vector_9
+ .text.__vector_7
+                0x000009d2       0xa2 ./MCAL/TIMER/TIMER_program.o
+                0x000009d2                __vector_7
+ .text.__vector_8
+                0x00000a74       0x7a ./MCAL/TIMER/TIMER_program.o
+                0x00000a74                __vector_8
+ .text.TIMER1_enuInterruptEnable
+                0x00000aee       0x14 ./MCAL/TIMER/TIMER_program.o
+                0x00000aee                TIMER1_enuInterruptEnable
+ .text.TIMER2_enuInterruptEnable
+                0x00000b02        0xe ./MCAL/TIMER/TIMER_program.o
+                0x00000b02                TIMER2_enuInterruptEnable
+ .text.TIMER0_enuInterruptEnable
+                0x00000b10        0xe ./MCAL/TIMER/TIMER_program.o
+                0x00000b10                TIMER0_enuInterruptEnable
+ .text.EEPROM_enuReadByteFromAddress
+                0x00000b1e       0x12 ./MCAL/INTERNAL_EEPROM/EEPROM_program.o
+                0x00000b1e                EEPROM_enuReadByteFromAddress
+ .text.EEPROM_enuReadBlockFromAddress
+                0x00000b30       0x2c ./MCAL/INTERNAL_EEPROM/EEPROM_program.o
+                0x00000b30                EEPROM_enuReadBlockFromAddress
+ .text.EEPROM_enuWriteByteToAddress
+                0x00000b5c       0x18 ./MCAL/INTERNAL_EEPROM/EEPROM_program.o
+                0x00000b5c                EEPROM_enuWriteByteToAddress
+ .text.EEPROM_enuWriteBlockToAddress
+                0x00000b74       0x36 ./MCAL/INTERNAL_EEPROM/EEPROM_program.o
+                0x00000b74                EEPROM_enuWriteBlockToAddress
+ .text.GIE_enu_Init
+                0x00000baa        0xe ./MCAL/GIE/GIE_program.o
+                0x00000baa                GIE_enu_Init
+ .text.GIE_enu_Enable
+                0x00000bb8        0xa ./MCAL/GIE/GIE_program.o
+                0x00000bb8                GIE_enu_Enable
+ .text.GIE_enu_Disable
+                0x00000bc2        0xe ./MCAL/GIE/GIE_program.o
+                0x00000bc2                GIE_enu_Disable
+ .text.EXTI_enuInit
+                0x00000bd0       0xf0 ./MCAL/EXTI/EXTI_program.o
+                0x00000bd0                EXTI_enuInit
+ .text.EXTI_enuSetSenseLevel
+                0x00000cc0       0x9a ./MCAL/EXTI/EXTI_program.o
+                0x00000cc0                EXTI_enuSetSenseLevel
+ .text.EXTI_enuEnableInterrupt
+                0x00000d5a       0x2a ./MCAL/EXTI/EXTI_program.o
+                0x00000d5a                EXTI_enuEnableInterrupt
+ .text.EXTI_enuDisableInterrupt
+                0x00000d84       0x2a ./MCAL/EXTI/EXTI_program.o
+                0x00000d84                EXTI_enuDisableInterrupt
+ .text.EXTI_enuCallBack
+                0x00000dae       0x24 ./MCAL/EXTI/EXTI_program.o
+                0x00000dae                EXTI_enuCallBack
+ .text.DIO_enuInit
+                0x00000dd2        0xc ./MCAL/DIO/DIO_program.o
+                0x00000dd2                DIO_enuInit
+ .text.DIO_enuSetPinDirection
+                0x00000dde       0xe4 ./MCAL/DIO/DIO_program.o
+                0x00000dde                DIO_enuSetPinDirection
+ .text.DIO_enuSetPinValue
+                0x00000ec2       0xe4 ./MCAL/DIO/DIO_program.o
+                0x00000ec2                DIO_enuSetPinValue
+ .text.DIO_enuGetPinValue
+                0x00000fa6       0x4c ./MCAL/DIO/DIO_program.o
+                0x00000fa6                DIO_enuGetPinValue
+ .text.DIO_enuTogPinValue
+                0x00000ff2       0x78 ./MCAL/DIO/DIO_program.o
+                0x00000ff2                DIO_enuTogPinValue
+ .text.ADC_enuInit
+                0x0000106a       0x10 ./MCAL/ADC/ADC_program.o
+                0x0000106a                ADC_enuInit
+ .text.ADC_enuEnableADC
+                0x0000107a        0x6 ./MCAL/ADC/ADC_program.o
+                0x0000107a                ADC_enuEnableADC
+ .text.ADC_enuDisableADC
+                0x00001080        0x6 ./MCAL/ADC/ADC_program.o
+                0x00001080                ADC_enuDisableADC
+ .text.ADC_enuEnableADC_Intrrupt
+                0x00001086        0x6 ./MCAL/ADC/ADC_program.o
+                0x00001086                ADC_enuEnableADC_Intrrupt
+ .text.ADC_enuDisableADC_Intrrupt
+                0x0000108c        0x6 ./MCAL/ADC/ADC_program.o
+                0x0000108c                ADC_enuDisableADC_Intrrupt
+ .text.ADC_enuStartConversion
+                0x00001092        0x6 ./MCAL/ADC/ADC_program.o
+                0x00001092                ADC_enuStartConversion
+ .text.ADC_enuChannelSelect
+                0x00001098       0x1a ./MCAL/ADC/ADC_program.o
+                0x00001098                ADC_enuChannelSelect
+ .text.ADC_enuAutoTriggerSource
+                0x000010b2       0x2c ./MCAL/ADC/ADC_program.o
+                0x000010b2                ADC_enuAutoTriggerSource
+ .text.ADC_enuAutoTriggerDisable
+                0x000010de        0x6 ./MCAL/ADC/ADC_program.o
+                0x000010de                ADC_enuAutoTriggerDisable
+ .text.ADC_enuReadDataRegister
+                0x000010e4       0x26 ./MCAL/ADC/ADC_program.o
+                0x000010e4                ADC_enuReadDataRegister
+ .text.ADC_enuCallBack
+                0x0000110a       0x14 ./MCAL/ADC/ADC_program.o
+                0x0000110a                ADC_enuCallBack
+ .text.ADC_enuPolling
+                0x0000111e        0xa ./MCAL/ADC/ADC_program.o
+                0x0000111e                ADC_enuPolling
+ .text.__vector_16
+                0x00001128       0x52 ./MCAL/ADC/ADC_program.o
+                0x00001128                __vector_16
+ .text.TempSensor_RiseFlag
+                0x0000117a        0x8 ./HAL/TEMPERATURE_SENSOR/TEMP_SENSOR_program.o
+                0x0000117a                TempSensor_RiseFlag
+ .text.TempSensor_enuGetTempReading
+                0x00001182       0x6a ./HAL/TEMPERATURE_SENSOR/TEMP_SENSOR_program.o
+                0x00001182                TempSensor_enuGetTempReading
+ .text.TempSensor_enuInit
+                0x000011ec      0x184 ./HAL/TEMPERATURE_SENSOR/TEMP_SENSOR_program.o
+                0x000011ec                TempSensor_enuInit
+ .text.SWITCH_enuGetState
+                0x00001370        0xe ./HAL/SWITCH/SWITCH_program.o
+                0x00001370                SWITCH_enuGetState
+ .text.SWITCH_enuIniti
+                0x0000137e       0x7a ./HAL/SWITCH/SWITCH_program.o
+                0x0000137e                SWITCH_enuIniti
+ .text.SevenSegment_enuStopDisplay
+                0x000013f8      0x186 ./HAL/SEVENSEGMENT/SEVENSEGMENT_program.o
+                0x000013f8                SevenSegment_enuStopDisplay
+ .text.SevenSegment_enuDisableDot
+                0x0000157e       0x2e ./HAL/SEVENSEGMENT/SEVENSEGMENT_program.o
+                0x0000157e                SevenSegment_enuDisableDot
+ .text.SevenSegment_enuEnableDot
+                0x000015ac       0x2e ./HAL/SEVENSEGMENT/SEVENSEGMENT_program.o
+                0x000015ac                SevenSegment_enuEnableDot
+ .text.SevenSegment_enuDisableCommon
+                0x000015da       0x2e ./HAL/SEVENSEGMENT/SEVENSEGMENT_program.o
+                0x000015da                SevenSegment_enuDisableCommon
+ .text.SevenSegment_enuEnableCommon
+                0x00001608       0x2e ./HAL/SEVENSEGMENT/SEVENSEGMENT_program.o
+                0x00001608                SevenSegment_enuEnableCommon
+ .text.SevenSegment_enuDisplayNumber
+                0x00001636      0x1b4 ./HAL/SEVENSEGMENT/SEVENSEGMENT_program.o
+                0x00001636                SevenSegment_enuDisplayNumber
+ .text.SevenSegment_Write
+                0x000017ea       0x6e ./HAL/SEVENSEGMENT/SEVENSEGMENT_program.o
+                0x000017ea                SevenSegment_Write
+ .text.SevenSegment_enuToggleDisplay
+                0x00001858       0x26 ./HAL/SEVENSEGMENT/SEVENSEGMENT_program.o
+                0x00001858                SevenSegment_enuToggleDisplay
+ .text.SevenSegment_enuInit
+                0x0000187e       0xb6 ./HAL/SEVENSEGMENT/SEVENSEGMENT_program.o
+                0x0000187e                SevenSegment_enuInit
+ .text.LED_SYSTEM_enuLedStop
+                0x00001934        0xe ./HAL/LED_SYSTEM/LED_SYSTEM_program.o
+                0x00001934                LED_SYSTEM_enuLedStop
+ .text.LED_SYSTEM_enuLedStart
+                0x00001942        0xe ./HAL/LED_SYSTEM/LED_SYSTEM_program.o
+                0x00001942                LED_SYSTEM_enuLedStart
+ .text.LED_SYSTEM_enuLedToggle
+                0x00001950        0xc ./HAL/LED_SYSTEM/LED_SYSTEM_program.o
+                0x00001950                LED_SYSTEM_enuLedToggle
+ .text.LED_SYSTEM_enuIniti
+                0x0000195c       0x18 ./HAL/LED_SYSTEM/LED_SYSTEM_program.o
+                0x0000195c                LED_SYSTEM_enuIniti
+ .text.LCD_enuWriteNLatch
+                0x00001974      0x15c ./HAL/LCD/LCD_program.o
+ .text.LCD_enuClearDisplay
+                0x00001ad0       0x1a ./HAL/LCD/LCD_program.o
+                0x00001ad0                LCD_enuClearDisplay
+ .text.LCD_enuDisplayIntegerNum
+                0x00001aea       0xe4 ./HAL/LCD/LCD_program.o
+                0x00001aea                LCD_enuDisplayIntegerNum
+ .text.LCD_enuSendpcString
+                0x00001bce       0x24 ./HAL/LCD/LCD_program.o
+                0x00001bce                LCD_enuSendpcString
+ .text.LCD_enuSendCustomCharacter
+                0x00001bf2       0xc2 ./HAL/LCD/LCD_program.o
+                0x00001bf2                LCD_enuSendCustomCharacter
+ .text.LCD_enuSendPosition
+                0x00001cb4       0x32 ./HAL/LCD/LCD_program.o
+                0x00001cb4                LCD_enuSendPosition
+ .text.LCD_enuSendCommand
+                0x00001ce6       0x1a ./HAL/LCD/LCD_program.o
+                0x00001ce6                LCD_enuSendCommand
+ .text.LCD_enuSendData
+                0x00001d00       0x1a ./HAL/LCD/LCD_program.o
+                0x00001d00                LCD_enuSendData
+ .text.LCD_enuInit
+                0x00001d1a       0xda ./HAL/LCD/LCD_program.o
+                0x00001d1a                LCD_enuInit
+ .text.HEAT_COOL_ELEMENTS_enuCoolerStop
+                0x00001df4        0xe ./HAL/HEAT_COOL/HEAT_COOL_Elements_program.o
+                0x00001df4                HEAT_COOL_ELEMENTS_enuCoolerStop
+ .text.HEAT_COOL_ELEMENTS_enuCoolerStart
+                0x00001e02        0xe ./HAL/HEAT_COOL/HEAT_COOL_Elements_program.o
+                0x00001e02                HEAT_COOL_ELEMENTS_enuCoolerStart
+ .text.HEAT_COOL_ELEMENTS_enuHeaterStop
+                0x00001e10        0xe ./HAL/HEAT_COOL/HEAT_COOL_Elements_program.o
+                0x00001e10                HEAT_COOL_ELEMENTS_enuHeaterStop
+ .text.HEAT_COOL_ELEMENTS_enuHeaterStart
+                0x00001e1e        0xe ./HAL/HEAT_COOL/HEAT_COOL_Elements_program.o
+                0x00001e1e                HEAT_COOL_ELEMENTS_enuHeaterStart
+ .text.HEAT_COOL_ELEMENTS_enuHeaterToggle
+                0x00001e2c        0xc ./HAL/HEAT_COOL/HEAT_COOL_Elements_program.o
+                0x00001e2c                HEAT_COOL_ELEMENTS_enuHeaterToggle
+ .text.HEAT_COOL_ELEMENTS_enuIniti
+                0x00001e38       0x2c ./HAL/HEAT_COOL/HEAT_COOL_Elements_program.o
+                0x00001e38                HEAT_COOL_ELEMENTS_enuIniti
+ .text.TMU_enuInit
+                0x00001e64       0x6a ./APP/TMU/TMU_program.o
+                0x00001e64                TMU_enuInit
+ .text.TMU_enuCreateTask
+                0x00001ece       0x48 ./APP/TMU/TMU_program.o
+                0x00001ece                TMU_enuCreateTask
+ .text.TMU_enuSuspendTask
+                0x00001f16       0x22 ./APP/TMU/TMU_program.o
+                0x00001f16                TMU_enuSuspendTask
+ .text.TMU_enuResumeTask
+                0x00001f38       0x2a ./APP/TMU/TMU_program.o
+                0x00001f38                TMU_enuResumeTask
+ .text.TMU_enuDeleteTask
+                0x00001f62       0x26 ./APP/TMU/TMU_program.o
+                0x00001f62                TMU_enuDeleteTask
+ .text.TMU_enuStartScheduler
+                0x00001f88        0xc ./APP/TMU/TMU_program.o
+                0x00001f88                TMU_enuStartScheduler
+ .text.SYSTEM_enuCalculateAverateTemp
+                0x00001f94       0x3e ./APP/SYSTEM/SYSTEM_program.o
+                0x00001f94                SYSTEM_enuCalculateAverateTemp
+ .text.SYSTEM_enuAddNewTemp
+                0x00001fd2       0x3c ./APP/SYSTEM/SYSTEM_program.o
+                0x00001fd2                SYSTEM_enuAddNewTemp
+ .text.SYSTEM_vFiveSecondsInSettingMode
+                0x0000200e       0x24 ./APP/SYSTEM/SYSTEM_program.o
+                0x0000200e                SYSTEM_vFiveSecondsInSettingMode
+ .text.SYSTEM_enuSleepMode
+                0x00002032        0xc ./APP/SYSTEM/SYSTEM_program.o
+                0x00002032                SYSTEM_enuSleepMode
+ .text.__vector_1
+                0x0000203e       0x26 ./APP/SYSTEM/SYSTEM_program.o
+                0x0000203e                __vector_1
+ .text.__vector_2
+                0x00002064       0x26 ./APP/SYSTEM/SYSTEM_program.o
+                0x00002064                __vector_2
+ .text.__vector_4
+                0x0000208a       0x4e ./APP/SYSTEM/SYSTEM_program.o
+                0x0000208a                __vector_4
+ .text.__vector_3
+                0x000020d8       0x76 ./APP/SYSTEM/SYSTEM_program.o
+                0x000020d8                __vector_3
+ .text.SYSTEM_vTogSevenSeg
+                0x0000214e       0x1c ./APP/SYSTEM/SYSTEM_program.o
+                0x0000214e                SYSTEM_vTogSevenSeg
+ .text.SYSTEM_enuOffState
+                0x0000216a       0x32 ./APP/SYSTEM/SYSTEM_program.o
+                0x0000216a                SYSTEM_enuOffState
+ .text.SYSTEM_enuSettingState
+                0x0000219c       0xd8 ./APP/SYSTEM/SYSTEM_program.o
+                0x0000219c                SYSTEM_enuSettingState
+ .text.SYSTEM_enuGetTemp
+                0x00002274       0x36 ./APP/SYSTEM/SYSTEM_program.o
+                0x00002274                SYSTEM_enuGetTemp
+ .text.SYSTEM_enuChangeTemp
+                0x000022aa       0x60 ./APP/SYSTEM/SYSTEM_program.o
+                0x000022aa                SYSTEM_enuChangeTemp
+ .text.SYSTEM_enuOnState
+                0x0000230a       0xe4 ./APP/SYSTEM/SYSTEM_program.o
+                0x0000230a                SYSTEM_enuOnState
+ .text.LED_SYSTEM_enuSystemToggle
+                0x000023ee       0x4e ./APP/SYSTEM/SYSTEM_program.o
+                0x000023ee                LED_SYSTEM_enuSystemToggle
+ .text.SYSTEM_enuInit
+                0x0000243c      0x18c ./APP/SYSTEM/SYSTEM_program.o
+                0x0000243c                SYSTEM_enuInit
+ .text.main     0x000025c8       0x28 ./APP/main.o
+                0x000025c8                main
+ .text.libgcc   0x000025f0       0x3e d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                0x000025f0                __mulsi3
+ .text.libgcc   0x0000262e       0x18 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+                0x0000262e                __udivmodqi4
+ .text.libgcc   0x00002646       0x28 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                0x00002646                __udivmodhi4
+ .text.libgcc   0x0000266e       0x26 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                0x0000266e                __divmodhi4
+                0x0000266e                _div
+ .text.libgcc   0x00002694       0x44 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                0x00002694                __udivmodsi4
+ .text.libgcc   0x000026d8       0x36 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                0x000026d8                __divmodsi4
+ .text.libgcc   0x0000270e        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x0000270e        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000270e        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000270e       0x38 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x0000270e                __prologue_saves__
+ .text.libgcc   0x00002746       0x36 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x00002746                __epilogue_restores__
+                0x0000277c                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000277c        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x0000277c                exit
+                0x0000277c                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000277c        0x4 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00002780                _etext = .
+
+.data           0x00800060      0x23c load address 0x00002780
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x0 ./MCAL/TIMER/TIMER_program.o
+ .data          0x00800060        0x0 ./MCAL/INTERNAL_EEPROM/EEPROM_program.o
+ .data          0x00800060        0x0 ./MCAL/GIE/GIE_program.o
+ .data          0x00800060        0x0 ./MCAL/EXTI/EXTI_config.o
+ .data          0x00800060        0x0 ./MCAL/EXTI/EXTI_program.o
+ .data          0x00800060        0x0 ./MCAL/DIO/DIO_program.o
+ .data          0x00800060        0x0 ./MCAL/ADC/ADC_program.o
+ .data          0x00800060        0x0 ./HAL/TEMPERATURE_SENSOR/TEMP_SENSOR_program.o
+ .data          0x00800060        0x0 ./HAL/SWITCH/SWITCH_config.o
+ .data          0x00800060        0x0 ./HAL/SWITCH/SWITCH_program.o
+ .data          0x00800060        0x0 ./HAL/SEVENSEGMENT/SEVENSEGMENT_config.o
+ .data          0x00800060        0x0 ./HAL/SEVENSEGMENT/SEVENSEGMENT_program.o
+ .data          0x00800060        0x0 ./HAL/LED_SYSTEM/LED_SYSTEM_program.o
+ .data          0x00800060        0x0 ./HAL/LCD/LCD_program.o
+ .data          0x00800060        0x0 ./HAL/HEAT_COOL/HEAT_COOL_Elements_program.o
+ .data          0x00800060        0x0 ./APP/TMU/TMU_program.o
+ .data          0x00800060       0xf7 ./APP/SYSTEM/SYSTEM_program.o
+ .data          0x00800157        0x0 ./APP/main.o
+ .data          0x00800157        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00800157        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+ .data          0x00800157        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00800157        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00800157        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00800157        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00800157        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x00800157        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x00800157        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00800157        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .data          0x00800157        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .data          0x00800157        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x00800157        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x00800157        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .data          0x00800157        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .data          0x00800157        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x00800157        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x00800157      0x100 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                0x00800157                __clz_tab
+ *(.data*)
+ .data.EXTI_AstrEXTIConfig
+                0x00800257        0x6 ./MCAL/EXTI/EXTI_config.o
+                0x00800257                EXTI_AstrEXTIConfig
+ .data.SWITCH_AstrSwitchConfig
+                0x0080025d        0x9 ./HAL/SWITCH/SWITCH_config.o
+                0x0080025d                SWITCH_AstrSwitchConfig
+ .data.SEVENSEGMENT_AstrSevenSegmentConfig
+                0x00800266       0x26 ./HAL/SEVENSEGMENT/SEVENSEGMENT_config.o
+                0x00800266                SEVENSEGMENT_AstrSevenSegmentConfig
+ *(.rodata)
+ *(.rodata*)
+ .rodata.SEVENSEGMENT_Au8_tCOMMON_CATHODE_VALUES
+                0x0080028c       0x10 ./HAL/SEVENSEGMENT/SEVENSEGMENT_program.o
+ *(.gnu.linkonce.d*)
+                0x0080029c                . = ALIGN (0x2)
+                0x0080029c                _edata = .
+                0x0080029c                PROVIDE (__data_end, .)
+
+.bss            0x0080029c       0x7d
+                0x0080029c                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x0080029c        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x0080029c        0x0 ./MCAL/TIMER/TIMER_program.o
+ .bss           0x0080029c        0x0 ./MCAL/INTERNAL_EEPROM/EEPROM_program.o
+ .bss           0x0080029c        0x0 ./MCAL/GIE/GIE_program.o
+ .bss           0x0080029c        0x0 ./MCAL/EXTI/EXTI_config.o
+ .bss           0x0080029c        0x0 ./MCAL/EXTI/EXTI_program.o
+ .bss           0x0080029c        0x0 ./MCAL/DIO/DIO_program.o
+ .bss           0x0080029c        0x0 ./MCAL/ADC/ADC_program.o
+ .bss           0x0080029c        0x0 ./HAL/TEMPERATURE_SENSOR/TEMP_SENSOR_program.o
+ .bss           0x0080029c        0x0 ./HAL/SWITCH/SWITCH_config.o
+ .bss           0x0080029c        0x0 ./HAL/SWITCH/SWITCH_program.o
+ .bss           0x0080029c        0x0 ./HAL/SEVENSEGMENT/SEVENSEGMENT_config.o
+ .bss           0x0080029c        0x0 ./HAL/SEVENSEGMENT/SEVENSEGMENT_program.o
+ .bss           0x0080029c        0x0 ./HAL/LED_SYSTEM/LED_SYSTEM_program.o
+ .bss           0x0080029c        0x0 ./HAL/LCD/LCD_program.o
+ .bss           0x0080029c        0x0 ./HAL/HEAT_COOL/HEAT_COOL_Elements_program.o
+ .bss           0x0080029c        0x0 ./APP/TMU/TMU_program.o
+ .bss           0x0080029c        0x0 ./APP/SYSTEM/SYSTEM_program.o
+ .bss           0x0080029c        0x0 ./APP/main.o
+ .bss           0x0080029c        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x0080029c        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+ .bss           0x0080029c        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x0080029c        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x0080029c        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x0080029c        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x0080029c        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x0080029c        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x0080029c        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x0080029c        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .bss           0x0080029c        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .bss           0x0080029c        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x0080029c        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x0080029c        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .bss           0x0080029c        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x0080029c        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x0080029c        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x0080029c        0x0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ *(.bss*)
+ .bss.Global_u16_tTimer0CTC_OneSecondCounter
+                0x0080029c        0x2 ./MCAL/TIMER/TIMER_program.o
+                0x0080029c                Global_u16_tTimer0CTC_OneSecondCounter
+ .bss.Global_32_tTIMER1_CTCA_SecondsCounter
+                0x0080029e        0x4 ./MCAL/TIMER/TIMER_program.o
+                0x0080029e                Global_32_tTIMER1_CTCA_SecondsCounter
+ .bss.TIMER1_pfunISRFun
+                0x008002a2        0x6 ./MCAL/TIMER/TIMER_program.o
+ .bss.Global_u32_tCounterCTC1B
+                0x008002a8        0x2 ./MCAL/TIMER/TIMER_program.o
+ .bss.Global_u32_tCounterCTC1A
+                0x008002aa        0x2 ./MCAL/TIMER/TIMER_program.o
+ .bss.Global_u32_tCounterOVF1
+                0x008002ac        0x4 ./MCAL/TIMER/TIMER_program.o
+ .bss.TIMER2_pfunISRFun
+                0x008002b0        0x4 ./MCAL/TIMER/TIMER_program.o
+ .bss.Global_u32_tCounterOVF2
+                0x008002b4        0x4 ./MCAL/TIMER/TIMER_program.o
+ .bss.TIMER0_pfunISRFun
+                0x008002b8        0x4 ./MCAL/TIMER/TIMER_program.o
+ .bss.Global_u32_tCounterCTC
+                0x008002bc        0x4 ./MCAL/TIMER/TIMER_program.o
+ .bss.Global_u32_tCounterOVF
+                0x008002c0        0x4 ./MCAL/TIMER/TIMER_program.o
+ .bss.TIMER0_u16_tDELAY_MILEOSECOND
+                0x008002c4        0x2 ./MCAL/TIMER/TIMER_program.o
+ .bss.TIMER1_u16_tDELAY_MILEOSECOND
+                0x008002c6        0x2 ./MCAL/TIMER/TIMER_program.o
+ .bss.TIMER2_u16_tDELAY_MILEOSECOND
+                0x008002c8        0x2 ./MCAL/TIMER/TIMER_program.o
+ .bss.EXTI_pfunISRFun
+                0x008002ca        0x6 ./MCAL/EXTI/EXTI_program.o
+ .bss.ADC_pfunISRFun
+                0x008002d0        0x2 ./MCAL/ADC/ADC_program.o
+ .bss.TempSensor_u8_tFlag
+                0x008002d2        0x1 ./HAL/TEMPERATURE_SENSOR/TEMP_SENSOR_program.o
+ .bss.Global_u16_tCounterENTERCTCISR
+                0x008002d3        0x2 ./APP/TMU/TMU_program.o
+ .bss.Global_u16_tCounterCTC
+                0x008002d5        0x2 ./APP/TMU/TMU_program.o
+ .bss.Global_u16_tFive_SecondCounter
+                0x008002d7        0x2 ./APP/SYSTEM/SYSTEM_program.o
+                0x008002d7                Global_u16_tFive_SecondCounter
+ *(COMMON)
+ COMMON         0x008002d9       0x1c ./APP/TMU/TMU_program.o
+                0x008002d9                TASKS
+ COMMON         0x008002f5       0x24 ./APP/SYSTEM/SYSTEM_program.o
+                0x008002f5                Global_u16_tOne_SecondToggleFlag
+                0x008002f7                Global_u16_tDesiredTemp
+                0x008002f9                Global_Au16_tTempArr
+                0x0080030d                Global_u8_tUPSwitchFlag
+                0x0080030e                Global_u8_tDOWNSwitchFlag
+                0x0080030f                Global_u16_tTempRead
+                0x00800311                Global_u8_tArrCounter
+                0x00800312                Global_u16_tFive_SecondToggleFlag
+                0x00800314                Global_u16_tAverageTemp
+                0x00800316                Global_u8_tCurrentState
+                0x00800317                Global_u8_tReadData
+                0x00800318                Global_u8_tTempMeasureFlag
+                0x00800319                PROVIDE (__bss_end, .)
+                0x00002780                __data_load_start = LOADADDR (.data)
+                0x000029bc                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800319        0x0
+                0x00800319                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800319                PROVIDE (__noinit_end, .)
+                0x00800319                _end = .
+                0x00800319                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x5d48
+ *(.stab)
+ .stab          0x00000000      0xabc ./MCAL/TIMER/TIMER_program.o
+ .stab          0x00000abc      0x3f0 ./MCAL/INTERNAL_EEPROM/EEPROM_program.o
+                                0x3fc (size before relaxing)
+ .stab          0x00000eac      0x21c ./MCAL/GIE/GIE_program.o
+                                0x228 (size before relaxing)
+ .stab          0x000010c8      0x1e0 ./MCAL/EXTI/EXTI_config.o
+                                0x1ec (size before relaxing)
+ .stab          0x000012a8      0x5dc ./MCAL/EXTI/EXTI_program.o
+                                0x6b4 (size before relaxing)
+ .stab          0x00001884      0x4f8 ./MCAL/DIO/DIO_program.o
+                                0x504 (size before relaxing)
+ .stab          0x00001d7c      0x570 ./MCAL/ADC/ADC_program.o
+                                0x57c (size before relaxing)
+ .stab          0x000022ec      0x3fc ./HAL/TEMPERATURE_SENSOR/TEMP_SENSOR_program.o
+                                0x408 (size before relaxing)
+ .stab          0x000026e8      0x1ec ./HAL/SWITCH/SWITCH_config.o
+                                0x1f8 (size before relaxing)
+ .stab          0x000028d4      0x1ec ./HAL/SWITCH/SWITCH_program.o
+                                0x2ac (size before relaxing)
+ .stab          0x00002ac0      0x1ec ./HAL/SEVENSEGMENT/SEVENSEGMENT_config.o
+                                0x1f8 (size before relaxing)
+ .stab          0x00002cac      0x960 ./HAL/SEVENSEGMENT/SEVENSEGMENT_program.o
+                                0xa44 (size before relaxing)
+ .stab          0x0000360c      0x288 ./HAL/LED_SYSTEM/LED_SYSTEM_program.o
+                                0x294 (size before relaxing)
+ .stab          0x00003894      0xb28 ./HAL/LCD/LCD_program.o
+                                0xcc0 (size before relaxing)
+ .stab          0x000043bc      0x300 ./HAL/HEAT_COOL/HEAT_COOL_Elements_program.o
+                                0x30c (size before relaxing)
+ .stab          0x000046bc      0x45c ./APP/TMU/TMU_program.o
+                                0x468 (size before relaxing)
+ .stab          0x00004b18     0x1050 ./APP/SYSTEM/SYSTEM_program.o
+                               0x11e8 (size before relaxing)
+ .stab          0x00005b68      0x1e0 ./APP/main.o
+                                0x1ec (size before relaxing)
+
+.stabstr        0x00000000     0x368f
+ *(.stabstr)
+ .stabstr       0x00000000     0x368f ./MCAL/TIMER/TIMER_program.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0xc0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .debug_aranges
+                0x00000020       0x20 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_aranges
+                0x00000040       0x20 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000060       0x20 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000080       0x20 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x000000a0       0x20 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000       0xe7
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x1e d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .debug_pubnames
+                0x0000001e       0x24 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_pubnames
+                0x00000042       0x1f d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_pubnames
+                0x00000061       0x1f d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x00000080       0x21 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x000000a1       0x26 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_pubnames
+                0x000000c7       0x20 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_info     0x00000000      0xd85
+ *(.debug_info)
+ .debug_info    0x00000000      0x27f d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .debug_info    0x0000027f      0x206 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_info    0x00000485      0x117 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_info    0x0000059c      0x2df d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_info    0x0000087b      0x251 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_info    0x00000acc      0x210 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_info    0x00000cdc       0xa9 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0x82e
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x15a d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .debug_abbrev  0x0000015a      0x157 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_abbrev  0x000002b1       0xc4 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x00000375      0x1c0 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x00000535      0x154 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x00000689      0x13b d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_abbrev  0x000007c4       0x6a d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_line     0x00000000      0x733
+ *(.debug_line)
+ .debug_line    0x00000000       0xd3 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .debug_line    0x000000d3      0x133 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_line    0x00000206       0xa5 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_line    0x000002ab      0x18a d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_line    0x00000435      0x14b d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_line    0x00000580      0x137 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_line    0x000006b7       0x7c d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_frame    0x00000000       0xc0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .debug_frame   0x00000020       0x20 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_frame   0x00000040       0x20 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_frame   0x00000060       0x20 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00000080       0x20 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x000000a0       0x20 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x220
+ *(.debug_str)
+ .debug_str     0x00000000      0x146 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000146       0x21 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                                0x177 (size before relaxing)
+ .debug_str     0x00000167       0x81 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                                0x111 (size before relaxing)
+ .debug_str     0x000001e8       0x1d d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x00000205        0xb d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                                0x17f (size before relaxing)
+ .debug_str     0x00000210       0x10 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                0x163 (size before relaxing)
+ .debug_str     0x00000000       0xf4 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_loc      0x00000000      0x356
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x3c d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .debug_loc     0x0000003c       0x4c d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_loc     0x00000088       0x94 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_loc     0x0000011c      0x13e d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_loc     0x0000025a       0xac d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x00000306       0x50 d:/1-online_diplomas/1_embedded_systems_diplomas/1_amit_diploma/1-embedded_software_diploma_amit_q11/tools/avr_tools_by_amit/avr tool/sdk/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(Electric_Water_HeaterSystem_v3_3.elf elf32-avr)
+LOAD linker stubs
